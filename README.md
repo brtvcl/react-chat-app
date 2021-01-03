@@ -15,7 +15,7 @@ npm scriptleri çalıştırdıktan sonra tarayıcı ile `http://localhost:3000` 
 Realtime chat app made with ReactJS and socket.io
 
 ### Setup
-Open up terminal instances and run scripts below in directories `/server` and `/web`
+Open up two terminal instances and run scripts below in directories `/server` and `/web`
 * `npm i` 
 * `npm start`
 
