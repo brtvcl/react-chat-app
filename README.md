@@ -1,4 +1,5 @@
-# react-chat-app
+# React Chat App
+![Ekran Goruntu](/web/src/prj.jpg)
 
 ## TR
 ReactJS ve socket.io ile yapılmış Gerçek zamanlı chat uygulaması
