@@ -1,6 +1,6 @@
 # react-chat-app
 
-##TR
+## TR
 ReactJS ve Socket.io ile yapılmış Gerçek zamanlı chat uygulaması
 
 ### Kurulum
